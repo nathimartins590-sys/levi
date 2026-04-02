@@ -4,12 +4,6 @@
             <meta charset="UTF-8">
             <title> Minha página</title>
     </head>
-     
-    <body> 
-      background-image: url("imagem.jpg");
-      background-size: cover;   
-      background-repeat: no-repeat;
-      background-position: center
     <body>
         <h1>Oba prof!</h1>
         <hr>
@@ -18,3 +12,4 @@
        </em> 
     </body>
 </html>
+
